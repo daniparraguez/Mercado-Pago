@@ -1,4 +1,7 @@
 # Pop&Rock Shop
+
+![alt text](https://github.com/daniparraguez/Portfolio/blob/master/assets/img/funko.png)
+
 ## Proyecto desarrollo app e-commerce
 
 * Como reto final de este curso deberás crear una app web bajo los principios de SPA Single page aplication.
