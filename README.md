@@ -1,6 +1,4 @@
-[![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-March-brightgreen.svg?style=flat-square)]()
-
-# Proyecto final 6
+# Pop&Rock Shop
 ## Proyecto desarrollo app e-commerce
 
 * Como reto final de este curso deberás crear una app web bajo los principios de SPA Single page aplication.
