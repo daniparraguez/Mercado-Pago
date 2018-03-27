@@ -14,7 +14,7 @@
 
 [Vanilla script SPA]
 
-# Apis Y librerias
+## APIs y librerias
 - Mercado libre api base de datos
 - Plataforma pago on line paypal libreria minicart
 
@@ -33,9 +33,5 @@
 
 ![img](images/readme-img.png)
 
-:smile: [Helen Harnish](https://github.com/HelenHarnish)
-:smile: [Daniela Parraguez](https://github.com/daniparraguez)
-:smile: [Carolina Saavedra](https://github.com/saahub)
-:smile: [Lorena Palominos](https://github.com/lpalominosf)
 
 
