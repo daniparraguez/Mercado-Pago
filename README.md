@@ -1,6 +1,7 @@
 # Pop&Rock Shop
 
-![alt text](https://github.com/daniparraguez/Portfolio/blob/master/assets/img/funko.png)
+![funko](https://user-images.githubusercontent.com/32283330/38035063-f0126566-3279-11e8-8e4e-c563dc925b99.png)
+
 
 ## Proyecto desarrollo app e-commerce
 
