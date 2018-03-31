@@ -34,5 +34,7 @@
 
 ![img](images/readme-img.png)
 
+## Desarrollado para [Laboratoria](http://laboratoria.la)
+
 
 
